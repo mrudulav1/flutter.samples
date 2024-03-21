@@ -1,5 +1,6 @@
 
 import 'dart:io';
+// put var to declare the type of variablrs
 void main()
 {
   print("enter your name:");
