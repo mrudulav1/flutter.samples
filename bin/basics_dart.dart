@@ -1,15 +1,15 @@
-// '''
-// import 'dart:io';
-// // put var to declare the type of variablrs
-// void main()
-// {
-//   print("enter your name:");
-//   var a = stdin.readLineSync();
-//   print("hello $a welcome flutter!");
-// }
-// '''
+'''
+import 'dart:io';
+// put var to declare the type of variablrs
+void main()
+{
+  print("enter your name:");
+  var a = stdin.readLineSync();
+  print("hello $a welcome flutter!");
+}
+'''
 
-// 2.enter two numbers printing
+2.enter two numbers printing
 
 import 'dart:io';
 void main(){
